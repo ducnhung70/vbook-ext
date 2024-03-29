@@ -27,6 +27,17 @@
       "locale": "vi_VN"
     },
     {
+      "name": "Sáng tác Việt",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/sangtacviet/plugin.zip",
+      "version": 6,
+      "source": "https://sangtacviet.vip",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/sangtacviet/icon.png",
+      "description": "Đọc truyện trên trang STV",
+      "type": "novel",
+      "locale": "vi_VN"
+    },
+    {
       "name": "Truyện Chữ",
       "author": "vBook",
       "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/truyenchu/plugin.zip",
